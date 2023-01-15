@@ -21,3 +21,4 @@ git clone https://github.com/ganicamna/Connect4GameInGo.git
 cd Connect4GameInGo
 go run 4inarow.go
 ```
+If that does not work, than open a new file, copy code from here and paste it there, and save it with .go extension. Then open command prompt/terminal window, navigate to folder where your file is saved, and then build and run the code using the command **go run nameOfYourGoFile.go** (for example **go run 4inarow.go**).
